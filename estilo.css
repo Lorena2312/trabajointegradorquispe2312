@@ -1,0 +1,18 @@
+.footer {
+    background-color: rgb(13, 167, 206);
+    height: 12rem;
+    font-size: 20px;
+    text-align: center;
+}
+
+.personajes{
+    align-items: center;
+}
+
+echo "# trabajointegradorquispe2312" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Lorena2312/trabajointegradorquispe2312.git
+git push -u origin main
